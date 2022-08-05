@@ -5,7 +5,6 @@
 > 애견용품들을 조회하고 👀, <br>장바구니에 추가하고 🧸,<br>
 > 또 주문을 할 수 있는 쇼핑몰 웹 서비스 제작 프로젝트입니다. <br />
 
-### http://kdt-sw2-seoul-team06.elicecoding.com/
 
 <br>
 
