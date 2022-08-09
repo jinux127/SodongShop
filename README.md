@@ -27,7 +27,7 @@
 
 ## 서비스 구성도
 
-![image](/uploads/8da0647fa860b9636116fa00bb7608e7/image.png)
+![소동flow](https://user-images.githubusercontent.com/59363543/183626228-b6072d46-2cd8-43ec-bf7d-bbfc6e672f07.png)
 
 ## 주요 사용 기술
 
@@ -51,7 +51,8 @@
 
 - 프론트: `src/views` 폴더
 - 백: src/views 이외 폴더 전체
-- 실행: **프론트, 백 동시에, express로 실행**
+- 실행: **프론트, 백 동시에, express로
+ 실행**
 
 ## 설치 방법
 
